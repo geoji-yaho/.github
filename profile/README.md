@@ -22,8 +22,4 @@
 
 <img src="https://raw.githubusercontent.com/geoji-yaho/.github/main/profile/assets/preview.png" alt="떼거지 화면" width="100%">
 
-<br><br>
-
-<sub>지출은 자진 신고입니다. 계좌 연동은 하지 않습니다.</sub>
-
 </div>
