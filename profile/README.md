@@ -4,9 +4,7 @@
 
 <br>
 
-[![데모](https://img.shields.io/badge/데모_보러가기-떼거지-2b2520?style=for-the-badge&labelColor=f5d95c)](https://geoji-yaho.github.io/geoji-web/)
-[![판결](https://img.shields.io/badge/판결-유죄_무죄_동의_기각_각하-c4553f?style=for-the-badge&labelColor=2b2520)](https://geoji-yaho.github.io/geoji-web/)
-[![팀](https://img.shields.io/badge/팀원-5명-2a5c4a?style=for-the-badge&labelColor=2b2520)](https://github.com/orgs/geoji-yaho/people)
+**[떼거지 데모 보러가기](https://geoji-yaho.github.io/geoji-web/)**
 
 </div>
 
